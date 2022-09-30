@@ -29,7 +29,7 @@ Created additional measures (Revenue, Sales Qty, Profit Margin, Total Profit Mar
 
 Cleaned the data by:
 * Removing duplicates
-* removing any records from sales_amount that was 0 or negative.
+* removing any records from sales_amount that are 0 or negative.
 * creating a new column (norm_sales_amount) that holds all sales amounts in Rupees.
 
 ## Dashboard
