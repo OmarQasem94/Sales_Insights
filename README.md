@@ -35,7 +35,7 @@ Cleaned the data by:
 ## Dashboard
 Finally, a fully interactive dashboard which is connected to the database to facilitate real-time updates was created.
 
-![Dashboard_Photo](https://github.com/OmarQasem94/Belly_Button_Biodiversity/blob/main/static/images/Dashboard.PNG)
+![Dashboard_Photo](https://github.com/OmarQasem94/Sales_Insights/blob/main/Images/Dashboard_Photo.png)
 
 The dashboard depicts the following KPIs:
 
