@@ -19,7 +19,7 @@ Utilized SQL statements to create a database consisting of 5 tables (customers, 
 
 #### **Microsoft Power BI**
 
-**ETL (Extract Transform Load)**
+ETL (Extract Transform Load)
 
 Established a connection between the postgres database and Power BI to import the data.
 
